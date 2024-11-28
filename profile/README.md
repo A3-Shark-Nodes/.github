@@ -13,6 +13,10 @@ Choosing A3 Shark means partnering with a team that is dedicated to your project
 - **Transparency:** We believe in open communication and transparency, keeping our clients informed every step of the way.
 
 # Our projects
+## 🔷Idep | [Content](https://abalone-double-452.notion.site/IDEP-14ce4642965f80fc8901e9dc026b3eb7)
+
+## 🔷Humanode | [Content](https://abalone-double-452.notion.site/Humanode-14ce4642965f8089b8a7fed6ae9161f7)
+
 ## 🔷Bool | [Content](https://a3shark.tech/Bool-Node-0fee4642965f80798db4f0feac7f7d7f)
 
 ## 🔷OG | [Content](https://www.notion.so/0G-Labs-Node-62dd4ada15cc4a7381dc77c9dd1fd8ab)
